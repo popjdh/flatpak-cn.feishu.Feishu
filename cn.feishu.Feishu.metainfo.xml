@@ -20,6 +20,7 @@
     <name>xxx</name>
   </developer>
   <releases>
+    <release version="7.54.11" date="2025-11-19"/>
     <release version="7.50.14" date="2025-10-10"/>
   </releases>
   <launchable type="desktop-id">cn.feishu.Feishu.desktop</launchable>
